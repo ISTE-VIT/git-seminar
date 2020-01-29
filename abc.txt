@@ -1,1 +1,2 @@
 ISTE-VIT
+Git Seminar
